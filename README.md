@@ -1,5 +1,5 @@
 # Project Scaffold
-A fork of the Figma plugin by [https://github.com/tushar7d/Project-Scaffold-Figma-Plugin](tushar7d).
+A fork of the Figma plugin by [https://github.com/destefanis/Discord-Figma-Project-Scaffold](destefanis).
 
 ### Features
 * Auto generates a consistent project structure for your team, so your organization is consistent across teams
